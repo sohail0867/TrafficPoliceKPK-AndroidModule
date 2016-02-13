@@ -22,3 +22,7 @@
 * UI
 * app unit-testing
 
+### Screen Shots
+
+#### AndroidApp - Homepage
+![AndroidApp - Homepage](/Screenshots/Screenshot_2016-02-13-10-39-17.png?raw=true "AndroidApp - Homepage")
